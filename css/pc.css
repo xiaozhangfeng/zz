@@ -1,0 +1,102 @@
+@charset "utf-8";
+.sousuo{
+	width: 380px;
+	height: 22px;
+	border:1px solid #999999;
+	
+}
+
+.cw{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.content{
+	width: 100%;
+	margin-left: 20px;
+}
+.content li{
+	float: left;
+	width: 32%;
+	padding-left:15px;
+}
+.content li img{
+	width: 90%;
+}
+.rede{
+	width: 20%;
+	float: left;
+}
+.rede .ran li{
+	float:none;
+	font-size: 16px;
+	color: #1384C0;
+	margin-bottom: 20px;
+
+}
+.sing{
+	width:70%;
+	float: left;
+	margin-bottom: 40px;
+}
+.sing li{
+	float: left;
+	width: 30%;
+	margin-right: 25px;
+}
+.sing li img{
+	float: none;
+	width: 100%;
+
+}
+.sing li p{
+	margin-top: 18px;
+	float: none;
+	width: 100%;
+}
+.dow{
+	margin-left: 26%;
+}
+.dow ul{
+	float: left;
+	width: 30%;
+	margin-right: 25px;
+}
+.qt{
+	height: 300px;
+}
+.guan{
+	padding-bottom: 50px;
+}
+
+.guan .g_b{
+	width: 20%;
+	padding-left: 20px;
+}
+.guan .g_t{
+	float: right;
+	width: 70%;
+}
+.guan .g_b p{
+	display: block;
+}
+.mon ul{
+	float: left;
+	margin-left: 100px;
+}
+.footer{
+	margin-top: 100px;
+	margin-left: 100px;
+}
+.footer .sp1{
+	display: inline;
+	margin-right: 10px;
+}
+.footer .sp{
+	display: inline;
+}
+.pc_hide{
+	display: none;
+}
+.pc_show{
+	display: block;
+}

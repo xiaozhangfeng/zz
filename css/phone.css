@@ -1,0 +1,224 @@
+@charset "utf-8";
+body{
+	font-family:punctuation, PingFangSC-Regular,"Microsoft YaHei","微软雅黑";
+}
+.cw{
+	padding-left: 13px;
+	padding-right: 11px;
+
+}
+.header{
+	margin-top: 16px;
+	margin-bottom: 15px;
+}
+
+.hd_rt{
+	
+	font-size: 0;
+}
+.hd_rt a{
+	vertical-align: bottom;
+	font-size: 16px;
+	color: #1570A5;
+}
+.tb{
+	background: url(../images/phone_caidan.jpg) no-repeat;
+	width: 22px;
+	height: 18px;
+	display: inline-block;
+}
+.tb1{
+	margin-left: 5px;
+	margin-right: 18px;
+	margin-top: 5px;
+}
+.nav{
+	padding: 0;
+}
+.nav ul li{
+	line-height: 40px;
+	background-color: #1570A5;
+	margin-bottom: 1px;
+}
+.nav ul li a{
+	color: #fff;
+	margin-left: 11px;
+}
+.nav .xiala{
+	background-color: #fff;
+	display: none;
+	position: static;
+	float:none;
+	padding-left: 13px;
+}
+.banner img{
+	width: 100%;
+}
+.banner2 img{
+	width: 100%;
+}
+.content{
+	margin-top: 24px;
+}
+.content li{
+	float: left;
+	width: 100%;
+}
+.content li img{
+	width: 100%;
+}
+.content li p{
+	font-size: 16px;
+	color: #1071A4;
+	padding-top: 10px;
+}
+.run{
+	margin-top: 50px;
+}
+.run li{
+	width: 40%;
+	float: left;
+	margin-bottom: 50px;
+	
+}
+.run .li3{
+	width: 20%;
+}
+.run li p{
+	height: 50px;
+	text-align: left;
+	margin-left: 10px;
+	margin-bottom: 5px;
+
+}
+.run li .p3{
+	margin-top: 8px;
+	height: 42px;
+}
+.run li span{
+	display:block;
+	width: 70px;
+	text-align: center;
+	font-size: 16px;
+	color: #1384C0;
+}
+.guan{
+	width: 100%;
+	background-color: #1570A5;
+	padding-top: 22px;
+}
+.guan .g_t{
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 25px;
+	padding-bottom: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: rgba(0,0,0,.2);
+	color: #fff;
+
+}
+.guan img{
+	float: left;
+	margin-right: 30px;
+
+}
+.guan .s1{
+	font-size: 18px;
+	font-weight: normal;
+	height: 30px;
+	line-height: 30px;
+
+}
+.guan .g_t .s2{
+	font-size: 14px;
+	line-height: 26px;
+}
+.guan .g_b{
+	margin-left: 20px;
+	margin-right: 20px;
+	color: #fff;
+	padding-bottom: 20px;
+}
+.guan .g_b h3{
+	font-size: 30px;
+	font-weight: normal;
+	height: 80px;
+	line-height: 80px;
+}
+.guan .g_b p{
+	margin-bottom: 10px;
+}
+
+.qt{
+	margin-top: 16px;
+}
+.qt li{
+	margin-top: 15px;
+	font-size:16px;
+	color: #191B1A;
+	margin-left: 15px;
+}
+.qt .t{
+	display: inline-block;
+}
+.qt .li1{
+	background: url(../images/phone_qt1.jpg) no-repeat left center;
+	padding-left: 28px;
+}
+.qt .li2{
+	background: url(../images/phone_qt2.jpg) no-repeat left center;
+	padding-left: 28px;
+}
+.qt .li3{
+	background: url(../images/phone_qt3.jpg) no-repeat left center;
+	padding-left: 28px;
+}
+.mon{
+	margin-left: 20px;
+	margin-top: 30px;
+}
+.mon li{
+	font-size: 12px;
+	color: #146FA4;
+	margin-bottom: 8px;
+}
+.mon .li1{
+	font-size: 16px;
+	color: #030102;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.footer{
+	padding-left: 30px;
+	margin-top: 40px;
+	margin-right: 100px;
+}
+.footer h3{
+	font-size: 18px;
+	color: #5E5E5E;
+	margin-bottom: 18px;
+}
+.footer .sp1{
+	display: block;
+	font-size: 16px;
+	color: #010206;
+	margin-bottom: 8px;
+}
+.footer .sp2{
+	display: inline-block;
+	font-size: 14px;
+	color: #1871AB;
+	margin-right: 25px;
+	padding-bottom:5px;
+}
+.footer .sp3{
+	margin-top: 10px;
+}
+.phone_hide{
+	display: none;
+}
+.phone_show{
+	display: block;
+}

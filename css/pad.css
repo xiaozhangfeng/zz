@@ -1,0 +1,155 @@
+@charset "utf-8";
+.cw{
+	padding-left: 4px;
+	padding-right: 7px;
+
+}
+.hd_lf{
+	padding-left: 13px;
+}
+
+.hd_rt{
+	margin-right: 11px;
+}
+.sousuo{
+	width: 240px;
+	height: 24px;
+	border:1px solid #999999;
+	position: relative;
+}
+.sou{
+	width: 100%;
+	height: 100%;
+	border:1px solid #999999;
+	padding: 0 30px 0 10px;
+	box-sizing: border-box;
+}
+.sousuo span{
+	position: absolute;
+	right:5px; top:6px;
+}
+
+.nav ul li{
+	float: left;
+	background-color: #fff;
+	margin-right: 30px;
+	position: relative;
+}
+.nav ul li a{
+	color: black;
+	background: url(../images/sanjiao.png) no-repeat right center;
+	width: 48px;
+	padding-right: 16px;
+}
+.nav ul li .xiala{
+	width: 60px;
+	padding-left: 10px;
+	padding-right: 10px;
+	position: absolute;
+	top:40px;
+	left: 0;
+	border: 1px solid #666;
+	border-top:1px solid #ccc;
+}
+.content {
+	margin-left:30px;
+}
+.content li{
+	float: left;
+	width: 31%;
+	padding-left:15px;
+}
+.content li img{
+	width: 100%;
+}
+.run{
+	margin-top: 0;
+}
+.rede h3{
+	font-size: 30px;
+	font-weight: normal;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	margin-left: 40px;
+}
+.rede .ran{
+	margin-left: 40px;
+}
+.rede .ran li{
+	float: left;
+	font-size: 16px;
+	color: #1384C0;
+	margin-right: 15px;
+
+}
+.sing{
+	margin-left:40px;
+	margin-top: 20px;
+}
+.sing_top{
+	margin-bottom: 15px;
+}
+.sing_top span{
+	display:inline-block;
+	padding-left: 7px;
+	padding-right: 8px;
+	height: 30px;
+	line-height: 30px;
+
+}
+.sing_top .span{
+	background-color: #1570A6;
+	color: #fff;
+}
+.sing_bottom li{
+	height: 126px;
+	margin-bottom: 40px;
+	font-size: 14px;
+	color: #1586C4;
+}
+.sing_bottom img{
+	float: left;
+	margin-right: 26px;
+}
+.sing_bottom p{
+	float: left;
+}
+.dow{
+	margin-left: 40px;
+}
+.dow li{
+	font-size: 14px;
+	color: #1586C4;
+	margin-bottom: 10px;
+}
+.dow .t{
+	color: #000;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-size: 30px;
+}
+
+.guan .g_b p{
+	display: inline-block;
+	margin-right: 10px;
+}
+.qt{
+	float: left;
+	margin-left: 20px;
+}
+.mon{
+	float: right;
+	margin-right: 100px;
+}
+.footer{
+	float: left;
+	margin-top: -200px;
+	margin-left: 25px;
+}
+.pad_hide{
+	display: none;
+}
+.pad_show{
+	display: block;
+}
+
